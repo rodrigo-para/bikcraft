@@ -3,6 +3,7 @@
 @import url(./global/footer.css);
 @import url(./utilidades/tipografia.css);
 @import url(./utilidades/cores.css);
+@import url(./utilidades/formulario.css);
 
 /* Utilidades */
 @import url(./utilidades/componentes.css);
@@ -28,3 +29,7 @@
 /* Bicicleta */
 @import url(./bicicleta/bicicleta.css);
 @import url(./bicicleta/seguro.css);
+
+/* Contato */
+@import url(./contato/contato.css);
+@import url(./contato/lojas.css);
